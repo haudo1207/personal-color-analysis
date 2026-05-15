@@ -3,5 +3,5 @@ torch
 torchvision
 Pillow
 pandas
-opencv-python
+opencv-python-headless
 scikit-image
